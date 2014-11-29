@@ -34,6 +34,6 @@ Rails for Zombies Redux
 Try Ruby
 **********
 Quiz-and-Review Checkmarks ✔
-✔ Bits 2.1 Procs, Blocks and Lambdas
-✔ Ruby Enumerable mixin "ruby detect"
-✔ Codecademy Hashes and Symbols
+✔ Bits 2.1 Procs, Blocks and Lambdas here: http://www.ruby-doc.org/core-2.1.5/Proc.html
+✔ Enumerable here: http://ruby-doc.org/core-2.1.5/Enumerable.html
+✔ Codecademy, Hashes and Symbols here: http://www.ruby-doc.org/core-1.9.3/Hash.html
