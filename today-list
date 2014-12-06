@@ -1,7 +1,7 @@
 Today-List
 ***********
 To-Do:
-Pragmatic Ruby 3
+Pragmatic Ruby 4
 Ruby Bits 2, 60
 Why's (119), 45
 Unreal (Blueprints), 30
@@ -31,3 +31,4 @@ Quiz-and-Review Checkmarks ✔
 ✔ Enumerable here: http://ruby-doc.org/core-2.1.5/Enumerable.html
 ✔ Codecademy, Hashes and Symbols here: http://www.ruby-doc.org/core-1.9.3/Hash.html
 ✔ Modules and Mixins here: http://ruby-doc.com/docs/ProgrammingRuby/html/tut_modules.html
+✔ Regular Expressings (Programming Ruby, Section 7)
