@@ -1,18 +1,18 @@
 Today-List
 ***********
 To-Do:
-Pragmatic Ruby Separate Source Files
+Pragmatic Ruby RSpec
 Ruby Bits 2
 Try Objective-C
 Javascript Road Trip 2
 ***********
 Things-to-Remember:
 Eloquent JS
+The "Pickaxe"
 Swift Development Beta
 7 Databases in 7 Weeks
 MDN HTML5
 Build Kiva
-Soup to Bits Screencast, 1 hour
 LinkedIn Rails Resume
 Contact Melissa about GA, 1776
 Join Planetary Society, FSF, Computer Society
@@ -23,18 +23,18 @@ January 6 - Deadline for Tech Talent South
 March 16 - GA Web Immersion Class Begins
 **********
 Recently Completed:
+Try Objective-C
 JS Road Trip 1
 Why's Poignant Guide
 Code_cademy Ruby
-Unreal Basics, Levels
 Ruby Bits 1
 Rails for Zombies Redux
 Try Ruby
 **********
 Quiz-and-Review Checkmarks ✔
-✔ Bits 2.1 Procs, Blocks and Lambdas here: http://www.ruby-doc.org/core-2.1.5/Proc.html
+✔ Procs, Blocks and Lambdas here: http://www.ruby-doc.org/core-2.1.5/Proc.html
 ✔ Enumerable here: http://ruby-doc.org/core-2.1.5/Enumerable.html
 ✔ Hashes and Symbols here: http://www.ruby-doc.org/core-1.9.3/Hash.html
 ✔ Modules and Mixins here: http://ruby-doc.com/docs/ProgrammingRuby/html/tut_modules.html
-✔ Regular Expressings (Programming Ruby, Section 7)
+✔ Regular Expressions (Programming Ruby, Section 7)
 ✔ Module: Kernel #sprintf #format Class: String #%
