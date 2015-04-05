@@ -1,32 +1,42 @@
-Today-List
-***********
-To-Do:
-twitch app
-kiva app
+/**
+* To Do
+**/
 code school
 linux academy
 udacity
-***********
-Reading List:
+
+/**
+* Projects
+**/
+you got a follow
+kiva math helper
+beecology game
+
+/**
+* Calendar
+**/
+April 30 - Twitch App Challenge
+May 4 - Udacity Project 1
+
+/**
+* Reading List
+**/
 The Smashing Book #4
 Eloquent JS
 Structure and Interpretation of Computer Programs (Scheme)
 The Little Lisper
 Why's Poignant Guide to Ruby
-***********
-Projects:
-Twitch App Challenge
-Kiva App
-**********
-Things-to-Remember:
+
+/**
+* Things to remember
+**/
 Contact Melissa about GA, 1776
 Planetary Society, FSF, IEEE Computer Society
-**********
-Calendar:
-April 30 - Twitch App Challenge
-May 4 - Udacity Project 1
-**********
-Completed List:
+
+
+/**
+* Completed
+**/
 Blasting Off With Bootstrap
 Try JQuery
 Pragmatic Studio - Ruby
@@ -38,8 +48,10 @@ Code_cademy Ruby
 Ruby Bits 1
 Rails for Zombies Redux
 Try Ruby
-**********
-Quiz-and-Review Checkmarks ✔
+
+/**
+* Checkmarks ✔
+**/
 ✔ Procs, Blocks and Lambdas here: http://www.ruby-doc.org/core-2.1.5/Proc.html
 ✔ Enumerable here: http://ruby-doc.org/core-2.1.5/Enumerable.html
 ✔ Hashes and Symbols here: http://www.ruby-doc.org/core-1.9.3/Hash.html
